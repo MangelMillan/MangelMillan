@@ -1,8 +1,8 @@
-<h1 align="left">Maikī  🗣️❗</h1>
+<h1 align="left">Maikī </h1>
 <p> Web developer</p>
 
 
-<h2 align="left">Skills 🐭</h2>
+<h2 align="left">Skills 🗣️🐭</h2>
 
 ###
 
@@ -34,7 +34,7 @@
 
 ###
 
-<h2 align="left">Contact me‼️‼️</h2>
+<h2 align="left">Contact me‼️</h2>
 
 ###
 
